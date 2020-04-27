@@ -22,7 +22,7 @@ To run the .ipynb file, download the datasets from the /input folder. To view th
 
 # Project License
 
-This project was submitted by Lara Martín as part of the Nanodegree At Udacity.
+This project was submitted by Theresa Gasinski as part of the Udacity Data Analyst Nanodegree.
 
 As part of Udacity Honor code, your submissions must be your own work, hence
 submitting this project as yours will cause you to break the Udacity Honor Code
